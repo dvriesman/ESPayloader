@@ -1,0 +1,9 @@
+## Simple ElasticSearch Sender ##
+
+With this you can send anything to Elasticsearch without a headache.
+
+Use: ESPayloader -a http://[elasticsearch_host:elasticsearch_port] -i [index_name] -d [document_type] -d "{\"json_payload\":\"mypayload\"}"
+
+
+
+
